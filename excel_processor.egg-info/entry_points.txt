@@ -1,2 +1,0 @@
-[console_scripts]
-excel_processor = src.main.main:main
